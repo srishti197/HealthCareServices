@@ -1,0 +1,31 @@
+<HTML>
+<head>
+   <title>HealthCare Page </title> 
+</head>
+<body> 
+    <Grid HorizontalAlignment="left" VerticalAlignment="left">
+        <!--Medcare -->
+        <!--<img src="medicare.png" alt="medicare" class="SmallImage">-->
+    </Grid>
+
+    <Grid HorizontalAlignment="Right" VerticalAlignment="Right">
+<!-- header section starts  -->
+
+<header class="header">
+
+    <a href="#" class="logo"> <i class="fas fa-heartbeat"></i> medcare. </a>
+ 
+    <nav class="navbar">
+        <a href="#home">home</a>
+        <a href="#services">services</a>
+        <a href="#about">about</a>
+        <a href="#doctors">doctors</a>
+        <a href="#book">book</a>
+        <a href="#blogs">blogs</a>
+</header>
+
+<!-- header section ends -->
+    </Grid>
+  
+</body>
+</HTML>
